@@ -1,0 +1,16 @@
+.section_container{
+    width: 50vw;
+    display:flex;
+    
+
+}
+
+.item{
+   
+    width: 500px;
+    height: 500px;
+    background-color: blueviolet;
+    border: 1px solid black;
+    margin: 10px;
+    
+}
